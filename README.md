@@ -1,6 +1,6 @@
 # 👋 Olá, bem-vindo ao meu perfil :D
 
-Sou desenvolvedor focado em **[seu foco principal — Front-end / Back-end / Full Stack]**, apaixonado por construir aplicações práticas e escaláveis.  
+Sou desenvolvedor focado em **[Desenvolvimento — Front-end / Back-end / Full Stack]**, apaixonado por construir aplicações práticas e escaláveis.  
 
 🎯 Meu portfólio: [mateuszancheta.vercel.app](https://mateuszancheta.vercel.app/)  
 
